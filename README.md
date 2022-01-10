@@ -40,5 +40,6 @@ git clone https://github.com/ricar0/Crawler-For-ACMCompetitions.git
 
 ## 成功
 
-![image-20220110201147190](C:\Users\admin\AppData\Roaming\Typora\typora-user-images\image-20220110201147190.png)
+![image](https://user-images.githubusercontent.com/72118993/148765465-81f5ed63-8b0b-48d5-8a46-64db64ca66f1.png)
+
 
